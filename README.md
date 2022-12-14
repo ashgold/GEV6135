@@ -1,2 +1,2 @@
 # GEV6135
- DL-Visualization homework (CS231n based courcework in Yonsei University)
+ DL-Visualization coursework (CS231n based courcework in Yonsei University)
